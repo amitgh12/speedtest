@@ -6,6 +6,7 @@ You can do speedtest using this script if your are yousing a linuc then also you
 -:User Command:-
 
 python speedtest.py
+
 or,
 
 python3 speedtest.py
@@ -14,6 +15,6 @@ python3 speedtest.py
 
 # Enjoy
 
-P.S :- I am not a owner of this script this script is goes to their respective owner. 
+P.S :- I am not a owner of this script. It goes to their respective owner. 
 
 # THANK YOU
